@@ -15,6 +15,6 @@ Don't worry if you get stuck. Create an issue to ask for help, or ask for help d
 [Git]: https://git-scm.com/downloads
 
 ## Upcoming Session
-21 Apr 2021 - [Marriage and Travelling] challenge - expected participants are Don, Brad, Charlotte (add your name here to practice making a git commit).
+5 May 2021 - [BearNSWE] challenge - expected participants are Don and ? (add your name here to practice making a git commit).
 
-[Marriage and Travelling]: https://community.topcoder.com/stat?c=problem_statement&pm=16905
+[BearNSWE]: https://community.topcoder.com/stat?c=problem_statement&pm=14368&rd=16767
