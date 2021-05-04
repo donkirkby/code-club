@@ -15,6 +15,6 @@ Don't worry if you get stuck. Create an issue to ask for help, or ask for help d
 [Git]: https://git-scm.com/downloads
 
 ## Upcoming Session
-5 May 2021 - [BearNSWE] challenge - expected participants are Don and Brad (add your name here to practice making a git commit).
+5 May 2021 - [BearNSWE] challenge - expected participants are Don, Brad and Charlotte (add your name here to practice making a git commit).
 
 [BearNSWE]: https://community.topcoder.com/stat?c=problem_statement&pm=14368&rd=16767
